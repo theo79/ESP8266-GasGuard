@@ -25,7 +25,7 @@ Follow these instructions to get your ESP8266-GasGuard up and running.
 
 ### Prerequisites:
 - Basic knowledge of electronics and soldering.
-- Familiarity with the Arduino IDE.
+- Familiarity with MicroPython and any text editor.
 - Necessary components (listed below).
 
 ### Components:
@@ -35,8 +35,8 @@ Follow these instructions to get your ESP8266-GasGuard up and running.
 - Buzzer
 - 2 LEDs (Power LED, Alarm LED)
 - Resistors
-- Breadboard and jumper wires
-- Power supply
+- Jumper wires
+
 
 ## Circuit Diagram:
 [Include a link to your circuit diagram image here]
