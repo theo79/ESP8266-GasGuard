@@ -1,3 +1,7 @@
+# lcd.py
+# LCD1602 I2C Display Library for MicroPython
+# This library provides basic functions to control a 16x2 LCD via I2C.
+
 import time
 from machine import I2C, Pin
 
