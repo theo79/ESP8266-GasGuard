@@ -39,7 +39,7 @@ Follow these instructions to get your ESP8266-GasGuard up and running.
 
 
 ## Circuit Diagram:
-[Include a link to your circuit diagram image here]
+https://github.com/theo79/ESP8266-GasGuard/blob/main/Wiring.jpg
 
 ## Installation:
 1. **Clone the Repository:**
