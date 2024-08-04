@@ -21,7 +21,7 @@ Stay safe with this DIY Gas Detector! 🚨 This compact and reliable device uses
 - [License](#license)
 
 ## Getting Started:
-Follow these instructions to get your ESP8266-GasGuard up and running.
+Download the most recent MicroPython firmware .bin file to load onto your ESP8266 device. You can download it from the MicroPython downloads page, and follow the instructions.
 
 ### Prerequisites:
 - Basic knowledge of electronics and soldering.
