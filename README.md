@@ -21,8 +21,8 @@ Stay safe with this DIY Gas Detector! 🚨 This compact and reliable device uses
 - [License](#license)
 
 ## Getting Started:
-Download the most recent MicroPython firmware .bin file to load onto your ESP8266 device. You can download it from the MicroPython downloads page, and follow the instructions.
-http://micropython.org/download/#esp8266 - https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html
+Download the most recent MicroPython firmware .bin file to load onto your ESP8266 device. You can download it from the MicroPython downloads page (http://micropython.org/download/#esp8266), and follow the instructions ( https://docs.micropython.org/en/latest/esp8266/tutorial/intro.html).
+ 
 ### Prerequisites:
 - Basic knowledge of electronics and soldering.
 - Familiarity with MicroPython and any text editor.
