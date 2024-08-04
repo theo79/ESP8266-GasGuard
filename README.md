@@ -1,7 +1,7 @@
 # ESP8266-GasGuard
 🛠️ ESP8266 Gas Detector with MQ9 Sensor, LCD, Buzzer, and LEDs
 
-Stay safe with our DIY Gas Detector! 🚨 Our compact and reliable device uses an ESP8266 microcontroller paired with an MQ9 sensor to monitor gas levels in your environment. Featuring a clear LCD16x2 display, an audible buzzer alarm, and LED indicators for power and alerts, this project is perfect for enhancing your safety at home or in the lab. Easy to build and customize, this gas detector is a must-have for tech enthusiasts and safety-conscious makers. 🔧💡
+Stay safe with this DIY Gas Detector! 🚨 This compact and reliable device uses an ESP8266 microcontroller paired with an MQ9 sensor to monitor gas levels in your environment. Featuring a clear LCD16x2 display, an audible buzzer alarm, and LED indicators for power and alerts, this project is perfect for enhancing your safety at home or in the lab. Easy to build and customize, this gas detector is a must-have for tech enthusiasts and safety-conscious makers. 🔧💡
 
 ## Key Features:
 - **ESP8266 Microcontroller:** For reliable wireless connectivity and control.
