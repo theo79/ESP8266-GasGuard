@@ -1,3 +1,5 @@
+# imported from https://github.com/leech001/MQ9/blob/master/mq9.py - leech001
+
 import time
 import math
 from machine import ADC
