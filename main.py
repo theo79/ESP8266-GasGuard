@@ -1,7 +1,4 @@
-# ESP8266-GasGuard
-# Gas Detector with MQ9 Sensor, LCD, Buzzer, and LEDs
-# Written by Theocharis Anastopoulos @ 2024
-
+# Anastopoulos Theocharis @2024
 from mq9 import MQ
 from machine import Pin, I2C
 from time import sleep
@@ -33,7 +30,9 @@ lcd.clear()
 lcd.print("LPG&CH4-T.Anasto", 0, 0)
 
 sleep(3)  # Display message for 3 seconds
-
+lcd.clear()
+lcd.print("Warming up..")
+sleep(120)  # 2 minutes of warm-up time (for more accurate readings raise this number)
 # Clear LCD after startup message
 lcd.clear()
 
@@ -49,7 +48,7 @@ while True:
     display_lcd(lpg, ch4)
 
     # Check if gas levels exceed 40 ppm
-    if lpg > 50 or ch4 > 40:
+    if lpg > 15 or ch4 > 20:
         # If gas levels are high, turn on LEDs and buzzer
         red_led.on()
         buzzer.on()

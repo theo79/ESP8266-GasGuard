@@ -1,5 +1,3 @@
-# mq9 adapted from https://github.com/leech001/MQ9
-
 import time
 import math
 from machine import ADC
@@ -24,11 +22,11 @@ class MQ:
         self.ro = ro
         self.adc = ADC(0)
 
-        self.LPGCurve = [2.3, 0.21, -0.47]  # two points are taken from the curve.
+        self.LPGCurve = [2.3, 0.21, -0.45]  # two points are taken from the curve.
         # with these two points, a line is formed which is "approximately equivalent"
         # to the original curve.
         # data format:{ x, y, slope}; point1: (lg200, 0.21), point2: (lg10000, -0.59)
-        self.CH4Curve = [2.3, 0.50, -0.38]  # two points are taken from the curve.
+        self.CH4Curve = [2.3, 0.50, -0.35]  # two points are taken from the curve.
         # with these two points, a line is formed which is "approximately equivalent"
         # to the original curve.
         # data format:[ x, y, slope]; point1: (lg200, 0.50), point2: (lg10000,  0.15)
