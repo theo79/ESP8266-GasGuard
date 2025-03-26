@@ -53,7 +53,7 @@ https://github.com/theo79/ESP8266-GasGuard/blob/main/Wiring.jpg
  
  ## Support & Feedback
 This project is open for contributions! Feel free to suggest improvements or add new features.  
-If you’d like to support this project, you can donate via PayPal: [paypal.me/Tanastopoulos](https://paypal.me/Tanastopoulos)
+
 
 
 
