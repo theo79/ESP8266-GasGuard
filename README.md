@@ -50,17 +50,8 @@ https://github.com/theo79/ESP8266-GasGuard/blob/main/Wiring.jpg
 3. **Monitor Gas Levels:**
     The LCD will display real-time gas levels. The buzzer will sound, and the Alarm LED will light up if gas concentrations exceed safe levels.
 
-## Contributing:
-We welcome contributions to improve ESP8266-GasGuard! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
-## License:
 
-This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
 ---
 
 Happy building and stay safe! If you have any questions or need further assistance, feel free to open an issue in this repository.
