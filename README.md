@@ -41,19 +41,6 @@ Download the most recent MicroPython firmware .bin file to load onto your ESP826
 ## Circuit Diagram:
 https://github.com/theo79/ESP8266-GasGuard/blob/main/Wiring.jpg
 
-## Installation:
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/ESP8266-GasGuard.git
-    ```
-2. **Open the Project:**
-    Open the `ESP8266-GasGuard` folder in the Arduino IDE.
-3. **Install Required Libraries:**
-    Ensure you have the following libraries installed in the Arduino IDE:
-    - `ESP8266WiFi`
-    - `LiquidCrystal_I2C`
-4. **Upload the Code:**
-    Connect your ESP8266 to your computer and upload the `ESP8266_GasGuard.ino` file to the microcontroller.
 
 ## Usage:
 1. **Assemble the Circuit:**
